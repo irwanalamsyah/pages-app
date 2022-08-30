@@ -1,1 +1,1 @@
-web: gunicorn config.wsgi --reload --workers 2
+web: gunicorn config.wsgi
